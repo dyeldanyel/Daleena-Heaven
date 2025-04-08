@@ -1,0 +1,19 @@
+<doctype html>
+<html>
+  <head>
+    <style>
+      body { background-color: skyblue; }
+    </style>
+    <title>Daleena heaven ABEME</title>
+    <meta charset="utf-8">
+  <h1><strong>Bienvenue sur ma page web</strong></h1>
+  <p> Je suis <em> Daleena heaven </em> Etudiante en morphologie féminine et spécialiste en morphologie masculine</p>
+    <p>J'ai eu l'honneur de créé ce présent site pour vous instruire sur les <strong>comportements deviants en milieu scolaire et vous inculquer les valeurs en vie sociale</strong> et ainsi vous montrer a quel point COLLARD est un Puissant</p>
+    <img src="https://gabon24.tv/wp-content/uploads/2024/08/E55F678E-65FE-477B-B368-8D224E06A485.jpeg"height="200" leigth="100"<br>
+    <p>En effet en tant qu'enfant de troupe j'appartient à une promotion et la mienne est la promotion du commissaire <strong>général de brigade sylvie NGUEMBYTH</strong> dans laquelle je me retrouve coincer avec 30 bonhomme mais le plus craquant n'est nul autre que <strong>Dyel-Danyel COLLARD</strong></p>
+    <p> <em>Pour en savoir plus cliquer sur ces liens </em></p>
+<a href="https://www.instagram.com/p/C1K83P2N_UzhIucsA-zzDW6jiHpMYux9Ldqd6I0/?igsh=OTJkZTJ0cnc1Mzhz">instagram</a><br>
+    <a href="wa.me/24107413221">wathsapp</a><br>
+<a href="https://www.tiktok.com/@haven2.01?_t=ZM-8vEmgbklhw6&_r=1">tiktok</a><br>
+  </body>
+</html>
